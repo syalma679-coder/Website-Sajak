@@ -2,6 +2,8 @@
 
 Tempat semua kata yang tak sempat terucap.
 
+link website : https://kathrisabluu.lovestoblog.com/
+
 ## ✨ Tentang Proyek
 
 Sajakku adalah website sederhana untuk menulis, membaca, mengedit, dan mengelola sajak pribadi. Website ini dibuat menggunakan PHP dan MySQL dengan tampilan lembut bernuansa pink yang nyaman dibaca.
